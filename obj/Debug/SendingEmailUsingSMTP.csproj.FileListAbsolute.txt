@@ -1,0 +1,6 @@
+D:\Projects\SendingEmailUsingSMTP\bin\Debug\SendingEmailUsingSMTP.exe.config
+D:\Projects\SendingEmailUsingSMTP\bin\Debug\SendingEmailUsingSMTP.exe
+D:\Projects\SendingEmailUsingSMTP\bin\Debug\SendingEmailUsingSMTP.pdb
+D:\Projects\SendingEmailUsingSMTP\obj\Debug\SendingEmailUsingSMTP.csprojAssemblyReference.cache
+D:\Projects\SendingEmailUsingSMTP\obj\Debug\SendingEmailUsingSMTP.exe
+D:\Projects\SendingEmailUsingSMTP\obj\Debug\SendingEmailUsingSMTP.pdb
